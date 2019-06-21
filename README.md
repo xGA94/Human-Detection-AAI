@@ -1,12 +1,12 @@
 # Human-Detection-AAI
-Human Detection fpr the Module AAI 
+Human Detection für the Module AAI 
 
-Benötigte Hardwar3
+Benötigte Hardware
 1. Raspberry 3 
 2. PiCam 
-3. Intel Copute Stick
+3. Intel Compute Stick
 
-Benöitgte Packete 
+Benötigte Packete 
 Installing OpenVINO on the Raspberry Pi and performing object detection with the Movidius Neural Compute StickShell
 $ sudo apt-get install build-essential cmake unzip pkg-config
  
